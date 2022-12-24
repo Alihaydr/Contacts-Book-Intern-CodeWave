@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\firstTest\firstTest\bin\Debug\firstTest.exe.config
+c:\users\user\documents\visual studio 2013\Projects\firstTest\firstTest\bin\Debug\firstTest.exe
+c:\users\user\documents\visual studio 2013\Projects\firstTest\firstTest\bin\Debug\firstTest.pdb
+c:\users\user\documents\visual studio 2013\Projects\firstTest\firstTest\obj\Debug\firstTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\firstTest\firstTest\obj\Debug\firstTest.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\firstTest\firstTest\obj\Debug\firstTest.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\firstTest\firstTest\obj\Debug\firstTest.exe
+c:\users\user\documents\visual studio 2013\Projects\firstTest\firstTest\obj\Debug\firstTest.pdb
+C:\Users\User\documents\visual studio 2013\Projects\firstTest\firstTest\obj\Debug\firstTest.Form1.resources
+C:\Users\User\documents\visual studio 2013\Projects\firstTest\firstTest\obj\Debug\firstTest.add.resources
+C:\Users\User\documents\visual studio 2013\Projects\firstTest\firstTest\obj\Debug\firstTest.update.resources
